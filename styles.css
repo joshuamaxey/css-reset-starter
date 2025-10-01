@@ -141,6 +141,10 @@ table {
   --code-fonts: "Lucida Console", monospace;
 }
 
+* {
+  font-family: var(--fonts);
+}
+
 /* Body Styles */
 /* You will need to add more, but this adds a background pattern to the page */
 body {
